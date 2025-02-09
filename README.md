@@ -1,4 +1,9 @@
 <div align="center">
+<h1><strong>Hola! Soy David Sevillano</strong> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+  
+</div>
+
+<div align="center">
 <h1><strong>Sobre mí:</strong></h1>
 </div>
 
