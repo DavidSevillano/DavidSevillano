@@ -68,6 +68,7 @@ Spring, Python, HTML, CSS, TypeScript
     </tr>
   </table>
 </div>
+<br>
 
 <div align="center">
 <h1><strong>Mis estadísticas: </strong></h1>
