@@ -26,7 +26,7 @@ Estoy estudiando un Ciclo Superior de Desarrollo de Aplicaciones multiplataforma
 </div>
 
 <div align="center">
-Kotlin, Jetpack Compose, XML, java, Android Studio, Dart/Flutter, Firebase, Room,  Docker, PostgreSQL, Git
+Kotlin, Jetpack Compose, XML, java, Android Studio, Dart/Flutter, Firebase, Room,  Docker, Git
 </div>
 <br>
 <div align="center">
@@ -37,11 +37,12 @@ Kotlin, Jetpack Compose, XML, java, Android Studio, Dart/Flutter, Firebase, Room
       <td><img src="https://icons.veryicon.com/png/o/miscellaneous/text-editor/xml-file.png" alt="Imagen 5" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Imagen 9" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="Imagen 9" width="100" /></td>
+    </tr>
+    <tr>
       <td><img src="https://github.com/user-attachments/assets/52bb2581-64ae-40bf-b578-515c106c9633" alt="Imagen 9" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="Imagen 9" width="100" /></td>
       <td><img src="https://www.kodeco.com/assets/murakami/category-icons/category-saving-data-persistence-android-9dc9eed34348d1d06a4365379fba3a54aa7aabd05d828dbb4de97349126d9718.svg" alt="Imagen 9" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="Imagen 9" width="100" /></td>
-      <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="Imagen 9" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Imagen 9" width="100" /></td>
     </tr>
   </table>
@@ -53,7 +54,7 @@ Kotlin, Jetpack Compose, XML, java, Android Studio, Dart/Flutter, Firebase, Room
 </div>
 
 <div align="center">
-Spring, Python, HTML, CSS, TypeScript
+Spring, PostgreSQL, Python, HTML, CSS, TypeScript
 </div>
 <br>
 
@@ -61,6 +62,7 @@ Spring, Python, HTML, CSS, TypeScript
   <table>
     <tr>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="Imagen 9" width="100" /></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="Imagen 9" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Imagen 9" width="100" />
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="Imagen 5" width="100" /></td>
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="Imagen 6" width="100"/</td>
