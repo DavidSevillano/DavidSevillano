@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-Soy una persona apasionada de la programación, especialmente la programación mobile tanto híbrida como nativa, me encanta aprender tecnologías nuevas y estar al día con las que ya conozco
+Soy una persona apasionada de la programación, especialmente la programación mobile tanto nativa como híbrida, me encanta aprender tecnologías nuevas y estar al día con las que ya conozco
 </div>
 <br>
 
