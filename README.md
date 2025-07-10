@@ -17,7 +17,7 @@ Soy una persona apasionada de la programación, especialmente la programación m
 </div>
 
 <div align="center">
-Estoy estudiando un Ciclo Superior de Desarrollo de Aplicaciones multiplataforma en el colegio Salesianos de San Pedro y desarrollando proyectos en mis ratos libres con flutter, kotlin y jetpack compose
+He terminado de cursar un Ciclo Superior de Desarrollo de Aplicaciones multiplataforma en el colegio Salesianos de San Pedro y me encuentro desarrollando proyectos en Android Nativo con Kotlin y Jetpack compose
 </div>
 
 <br>
